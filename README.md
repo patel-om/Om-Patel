@@ -1,5 +1,4 @@
 # Om-Patel
-<h3 align="center">Om Patel's GitHub Repository</h3>
 
 ###
 
